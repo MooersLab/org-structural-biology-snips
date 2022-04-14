@@ -1,1 +1,0 @@
-# structural-biology-org-snips
