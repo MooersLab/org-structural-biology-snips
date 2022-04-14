@@ -1,1 +1,17 @@
 * structural-biology-org-snips
+
+We are developing the structural-biology-org-snips Library to support polyglot literate programming towards the long-term goal of supporting reproducible research.
+Literate programming supports reproducible research by interleaving explanatory text, computer code, and computer output in the same document.
+Polyglot programming involves the use of multiple programming languages in one document.
+Most structural biology workflows involve the use of multiple software packages that are often written in several programming languages.
+The data are often too large to directly incorporate into a single document, so literate programming of the entire workflow in not realistic at this time.
+Nonetheless, to improve rigor in research today, it is important to apply literate programming to admenable segments of the workflow.
+
+Org-mode is one of the most advanced, easy-to-use, and best-developed platforms that supports polyglot programming.
+Org-mode is a powerful markup language with an easy-to-understand syntax.
+It is best run in Emacs, but it can be written in popular text editors like Visual Studio Code.
+Its use does not require knowledge of elisp or of keybindings; all necessary commands are available from pulldown menus. 
+Code blocks in org-mode can tap into various programming compilers or interpreters, or they do so indirectly by calling Juptyer notebook kernels for various structural biology software.
+The latter are easy to set up.
+
+
