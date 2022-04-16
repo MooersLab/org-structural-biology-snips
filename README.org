@@ -18,7 +18,7 @@ Org is best written in the Emacs editor; but it can be written in several other 
 Contrary to a popular misconception, the use of Emacs does not require knowledge of elisp or of keybindings; all necessary commands are available from pulldown menus that resemble the pulldown menus.
 While Emacs can be run in the terminal, most users use a stand-a-lone GUI application that provides an user interface that is familar to the users of other text editors.
 
-Emacs orginated in 1976, but it has undergone continual revision and updating [[https://www.emacswiki.org/emacs/EmacsHistory][updating]].
+Emacs orginated in 1976, but it has undergone continual revision and [[https://www.emacswiki.org/emacs/EmacsHistory][updating]].
 A cadre of 100s of expert developers maintain the core of Emacs while 1000s of contributors that have built packages like Org to extend Emacs. 
 A group of young users have exhibited expectional leadership over the past decade by organizing and hosting the annual virtual emacsconf.
 Videos of past talks are available on line.
