@@ -1,40 +1,42 @@
+
+
 * org-structural-biology-snips
 
 We are developing the org-structural-biology-snips library to support polyglot literate programming.
 Literate programming supports reproducible research by interleaving explanatory text, computer code, and computer output in the same document.
 Polyglot programming involves the use of multiple programming languages in one document.
 Most structural biology workflows involve the use of multiple software packages that are often written in several programming languages.
-The data are often too large to be directly incorporated into a single document, so literate programming of the entire workflow in not realistic at this time.
-Nonetheless, to improve the rigor in today's research, it is important to apply literate programming to admenable segments of the workflow.
+The data are often too large to be directly incorporated into a single document, so literate programming of the entire workflow is not realistic now.
+Nonetheless, it is important to apply literate programming to amenable workflow segments to improve the rigor of today's research.
 
 Org is one of the most advanced, easy-to-use, and best-documented platforms that supports polyglot programming.
 Org is a powerful markup language with an easy-to-understand syntax.
 It combines the support for literate programming with support for project planning via org-agenda.
 Most users of Emacs spend much of their time using Org.
 Org is deployed as a major mode called org-mode.
-Org-mode has been under development since 2003 and has a number of so-called minor modes that start with org and that extend it capabilities.
+Org-mode has been under development since 2003 and has a number of minor modes that start with org and extend its capabilities.
 
-Org is best written in the Emacs editor; but it can be written in several other popular text editors like Visual Studio Code.
-Contrary to a popular misconception, the use of Emacs does not require knowledge of elisp or of keybindings; all necessary commands are available from pulldown menus that resemble the pulldown menus.
-While Emacs can be run in the terminal, most users use a stand-a-lone GUI application that provides an user interface that is familar to the users of other text editors.
+Org is best written in the Emacs editor, but it can also be written in several other popular text editors, such as Visual Studio Code.
+Contrary to a popular misconception, using Emacs does not require knowledge of elisp or keybindings; all necessary commands are available from pulldown menus that resemble pulldown menus.
+While Emacs can be run in the terminal, most users use a stand-alone GUI application that provides a user interface familiar to other text editors.
 
-Emacs orginated in 1976, but it has undergone continual revision and [[https://www.emacswiki.org/emacs/EmacsHistory][updating]].
-A cadre of 100s of expert developers maintain the core of Emacs while 1000s of contributors that have built packages like Org to extend Emacs. 
-A group of young users have exhibited expectional leadership over the past decade by organizing and hosting the annual virtual emacsconf.
-Videos of past talks are available on line.
+Emacs originated in 1976, but it has undergone continual revision and [[https://www.emacswiki.org/emacs/EmacsHistory][updating]].
+A cadre of 100s of expert developers maintains the core of Emacs while 1000s of contributors have built packages like Org to extend Emacs. 
+A group of young users has exhibited exceptional leadership over the past decade by organizing and hosting the annual virtual emacs conference.
+Videos of past talks are available online.
 Three users of particular note are as follows:
 
-  - Dave Wilson who has supplied scores of instructional videos for novice and advanded beginners as part of his System-Crafters podcast.
-  - Sacha Chau writes blogposts that are concise, thoughtful, and well-written distillations that are very accessible to beginners. She also supplies a weekly summary of noteworthy developments.
-  - (Prot), a Greek philosopher living in the mountains of rural Cyprus that started using Emacs only several years ago and has become an expert user without any formal training in computer science. He has a series of thought-provoking videos on YouTube about Emacs and leading a self-reliant life.
+  Dave Wilson has supplied scores of instructional videos for novice and advanced beginners as part of his System-Crafters podcast.
+  - Sacha Chau writes concise, thoughtful blogposts and well-written distillations that are accessible to beginners. She also supplies a weekly summary of noteworthy developments.
+  - (Prot) is a Greek philosopher living in the mountains of rural Cyprus who started using Emacs only several years ago and has become an expert user without formal computer science training. He has a series of thought-provoking videos on YouTube about Emacs and leading a self-reliant life.
   
 Many other users have provided helpful tutorial videos on YouTube.
-According to the Lindy Effect or Law, the amount of time that a technology has been in use is a good predictor of how much longer it will be around.
+According to the Lindy Effect or Law, the amount of time a technology has been in use is a good predictor of its future existence.
 In 2022, we can expect Emacs to be in use until 2068.
 As one of the oldest text editors still in use, Emacs is one the safest editors to invest effort into mastering.
 So is Vim, which arose at about the same time, but, unlike Vim, Emacs offers so many capabilities beyond text editing that it is more of a computing environment (it is almost an operating system). 
   
-Code blocks in org-mode can tap into various programming compilers or interpreters, or they do so indirectly by calling Jupyter notebook kernels for various structural biology software.
+Code blocks in org-mode can access various programming compilers or interpreters, or they can do so indirectly by calling Jupyter notebook kernels for various structural biology software.
 The latter are easy to set up if the software is wrapped in Python.
 
 
