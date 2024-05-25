@@ -1,8 +1,8 @@
-![Version](https://img.shields.io/static/v1?label=doe-emofat&message=0.0&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=org-structural-biology-snips&message=0.0&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-* org-structural-biology-snips
+* Structural biology snippets for org-mode (coming soon)
 
 We are developing the org-structural-biology-snips library to support polyglot literate programming.
 Literate programming supports reproducible research by interleaving explanatory text, computer code, and computer output in the same document.
@@ -29,7 +29,7 @@ Videos of past talks are available online.
 Three users of particular note are as follows:
 
   Dave Wilson has supplied scores of instructional videos for novice and advanced beginners as part of his System-Crafters podcast.
-  - Sacha Chau writes concise, thoughtful blogposts and well-written distillations accessible to beginners. She also supplies a weekly summary of noteworthy developments.
+  - Sacha Chau writes concise, thoughtful blog posts and well-written distillations accessible to beginners. She also supplies a weekly summary of noteworthy developments.
   - (Prot) is a Greek philosopher living in the mountains of rural Cyprus who started using Emacs only several years ago and has become an expert user without formal computer science training. He has a series of thought-provoking videos on YouTube about Emacs and leading a self-reliant life.
   
 Many other users have provided helpful tutorial videos on YouTube.
