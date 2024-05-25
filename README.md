@@ -1,8 +1,7 @@
 ![Version](https://img.shields.io/static/v1?label=org-structural-biology-snips&message=0.0&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-
-* Structural biology snippets for org-mode (coming soon)
+# Structural biology snippets for org-mode (coming soon)
 
 We are developing the org-structural-biology-snips library to support polyglot literate programming.
 Literate programming supports reproducible research by interleaving explanatory text, computer code, and computer output in the same document.
