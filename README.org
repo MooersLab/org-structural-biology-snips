@@ -43,9 +43,10 @@ The latter are easy to set up if the software is wrapped in Python.
 
 ## Update history
 
-|Version      | Changes                                                                                                                                                                         | Date                 |
+|Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.2 |   Added badges, funding, and update table.                                                                                                                  | 2024 May 24         |
+| Version 0.0 |   Added badges, funding, and update table.                                                                                                 | 2024 May 24         |
+
 ## Sources of funding
 
 - NIH: R01 CA242845
